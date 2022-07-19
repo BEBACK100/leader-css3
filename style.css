@@ -110,6 +110,5 @@ main {
 }
 
 .courses {
-    display: grid;
-    grid-template-c: repeat(2, 1fr);
+    display: flex;
 }
